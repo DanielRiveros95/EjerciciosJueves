@@ -1,11 +1,1 @@
-console.log("d) cocinar una tarta");
-console.log("Encender horno fuego medio");
-console.log("Cortar 200 gr de queso en cubos");
-console.log("Cortar 200 gr de jamón en cubos");
-console.log("Agregar 3 huevos");
-console.log("Poner hoja de tarta en placa");
-console.log("Verter el relleno en tarta");
-console.log("Tapar la tarta con la otra hoja de la masa");
-console.log("Realizar el repulgue");
-console.log("cocinar durante 30 minutos");
-console.log("Cortar y servir");
+console.log("Hola mundo");
