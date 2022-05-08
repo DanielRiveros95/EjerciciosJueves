@@ -1,10 +1,10 @@
-console.log("girar a la izquierda");
+console.log("girar a la izquierda 90°");
 console.log("avanzar");
-console.log("girar a la derecha");
+console.log("girar a la derecha 90°");
 console.log("avanzar");
 console.log("avanzar");
 console.log("avanzar");
-console.log("girar a la derecha");
+console.log("girar a la derecha90°");
 console.log("avanzar");
 console.log("quitar monticulo");
 console.log("finalizado");
